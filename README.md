@@ -1,1 +1,1 @@
-# Obliczanie-R-nic-Kursowych
+# Obliczanie-roznic-kursowych
